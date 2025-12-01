@@ -58,7 +58,6 @@ int main(void)
     {
         curr_pos = handle_rotation(line, curr_pos, &password_val);
     }
-    printf("curr pos is %d\n", curr_pos);
     printf("pass is %d\n", password_val);
     free(line);
     fclose(input);
