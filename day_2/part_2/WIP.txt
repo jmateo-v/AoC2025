@@ -1,0 +1,3 @@
+I did bruteforce part 2 giving me the result of: 41823587546
+Giving the gold star.
+However I am not proud of the approach and I will revisit this puzzle later down the line.
