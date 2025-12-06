@@ -1,0 +1,4 @@
+Ended up having to modify the input cause I was not able parse it properly.
+Will revisit it later and upload a proper solution.
+
+Sorry
